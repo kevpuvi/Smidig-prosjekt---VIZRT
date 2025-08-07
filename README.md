@@ -1,4 +1,4 @@
-# Smidig-prosjekt---VIZRT
+# Smidig-prosjekt -VIZRT (Eksamenbesvarelse)
 # Marketplace for Graphics – Prototype
 
 Dette prosjektet er utviklet i samarbeid med VizRt som en del av et oppdrag for å utforske og designe en ny markedsplass for grafikk og design til produksjoner innenfor blant annet direktesendt TV, e-sport og sport.
@@ -19,6 +19,7 @@ Prototypen viser en tosidig markedsplass hvor designere kan laste opp grafikkpak
 
  https://www.figma.com/proto/yXDxQgvdluJ2YQDxdqywQE/Untitled?node-id=820-6211&p=f&t=3FOZB8GhqqYvAJtX-1&scaling=scale-down&content-scaling=fixed&page-id=31%3A397&starting-point-node-id=820%3A6211
 
+Laget våren 2024. 
  
 
 
